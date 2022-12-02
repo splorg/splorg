@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://c.tenor.com/aF0SxuV6kUcAAAAC/anime-girl.gif" height="128" width="128" />
+  <img src="https://media.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" />
 </div>
 
 ### <p align="center">`languages and tools`</p>
