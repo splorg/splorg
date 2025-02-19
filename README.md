@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" />
 </div>
 
-### <p align="center">`languages and tools`</p>
+### <p align="center">`tech stack:`</p>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
