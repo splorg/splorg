@@ -8,5 +8,5 @@
 <hr />
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,ts,react,nextjs,expo,nodejs,bun,go,cloudflare,docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,nextjs,expo,nodejs,bun,go,cloudflare,docker" />
 </p>
